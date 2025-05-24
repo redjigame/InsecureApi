@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "T4sIzlpVfN6wrH0ZEp3S4j3l2J9S9EJ+6c71/IXuRD4=",
+  "Source": "InsecureApi",
+  "BasePath": "_content/InsecureApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
